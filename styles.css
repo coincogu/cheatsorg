@@ -6,12 +6,12 @@ body {
   font-family: 'Rubik';
 }
 .container {
-  max-width: 55%;
+  max-width: 792px;
   justify-content: center;
   margin: 0 auto;
-  border-radius: 10px;
-  border: 1px solid #4F5052;
-  margin: 8px auto;
+  border-radius: 10.8px;
+  border: 1.44px solid #4F5052;
+  margin: 7.92px auto;
   overflow: hidden;
 }
 
