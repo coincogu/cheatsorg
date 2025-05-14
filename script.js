@@ -1,3 +1,9 @@
+document.addEventListener("DOMContentLoaded", () => {
+  const width = window.innerWidth;
+  const zoom = `${width / 1440 * 100}%`;
+  document.body.style.zoom = zoom;
+})
+
 // Carousel scroll functionality
 const carouselTrack = document.querySelector('.carousel-track');
 const leftArrow = document.querySelector('.carousel-arrow.left');
